@@ -1,73 +1,85 @@
 # Operational Performance Framework
 
-A practical framework for structuring operational performance through process mapping, KPI management, reporting and continuous improvement.
+A practical performance-management portfolio combining process design, KPI architecture, dashboards, management routines and an anonymized transformation case.
 
-## Objective
+## Performance Management Model
 
-The objective is to connect operational processes with measurable performance indicators and management routines.
+**Map → Define → Measure → Analyze → Challenge → Act → Improve → Sustain**
 
-## Performance Model
+The objective is to turn operational activity data into **actionable management insight**.
 
-**Process → Activity → KPI → Target → Analysis → Action → Improvement**
+## What This Repository Demonstrates
 
-## Key Components
-
-- Process mapping
-- SIPOC
-- KPI definition
-- Performance dashboards
-- Reporting framework
-- Action plans
+- Process mapping and SIPOC
+- KPI architecture and data definitions
+- Performance dashboard design
+- Operational reporting
 - Root cause analysis
+- Corrective / improvement action planning
 - Performance reviews
-- Continuous improvement
+- Trend analysis
+- Management decision support
 
-## KPI Categories
+## KPI Architecture
 
 ### Operational
-- Productivity
-- Efficiency
-- Quality
-- Volume
-- SLA / adherence
+Productivity, efficiency, quality, volume, SLA / adherence.
 
-### Customer
-- Customer Satisfaction
-- Complaint rate
-- Resolution performance
+### Customer / Funnel
+Customer satisfaction, complaints, qualification, conversion, resolution performance.
 
 ### People
-- Training completion
-- Attrition
-- Absenteeism
-- Onboarding performance
+Training completion, onboarding, absenteeism, attrition and performance development.
 
 ### Management
-- Action closure
-- Project progress
-- Risk status
-- Improvement initiatives
+Action closure, project progress, risk status and improvement initiatives.
 
-## Deliverables
+## Applied Case Study
 
-The repository contains examples of:
+The repository includes an anonymized **operational performance transformation case** in a service organization.
 
-- Process maps
-- KPI dictionaries
-- Dashboards
-- Reporting structures
-- Performance review templates
-- Improvement action plans
+The project focused on building a performance-management system from the ground up:
 
-## Approach
+1. Clarify the operating model.
+2. Map the customer and operational flows.
+3. Consolidate fragmented activity data.
+4. Define KPI logic and ownership.
+5. Establish dashboards and reporting.
+6. Introduce recurring performance reviews.
+7. Analyze trends and performance gaps.
+8. Challenge and coach teams.
+9. Implement targeted improvement actions.
+10. Sustain the management cycle.
 
-The framework is designed to create a clear link between **operational execution and management decision-making**.
+## Portfolio Evidence
 
-## Professional Approach
+In the anonymized case, the framework supported a three-month performance-monitoring cycle in which **gross conversion improved by 2.5 percentage points (approximately +42% relative)**.
 
-**Map → Measure → Analyze → Act → Improve → Sustain**
+Underlying lead volumes, revenue, individual performance and detailed commercial data are intentionally excluded.
 
-## Author
+## Data Governance Principle
 
-**Samira Ghazouani**  
+Performance indicators must be interpreted according to their calculation logic and operating context.
+
+For funnel performance, the case distinguished **gross conversion** from net conversion because some leads could move into other service pathways. Individual performance was monitored primarily as a trend over time because acquisition channels differed.
+
+## Repository Structure
+
+```text
+03-operational-performance/
+├── README.md
+├── process/
+├── kpi/
+├── dashboard/
+├── improvement/
+└── case-study/
+```
+
+## Professional Positioning
+
+**Operational Performance + PMO + Process Improvement + KPI Governance + Continuous Improvement**
+
+The framework connects operational execution to management decisions rather than treating dashboards as reporting-only artifacts.
+
+**Author:** Samira Ghazouani  
 PMP® | Lean Six Sigma Black Belt | QSE/QHSE Management
