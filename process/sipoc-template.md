@@ -1,6 +1,6 @@
-# SIPOC Template
+# SIPOC — Process Scoping Framework
 
-Use SIPOC to establish a high-level view of a process before detailed process mapping.
+SIPOC provides a high-level view before detailed process mapping.
 
 | Suppliers | Inputs | Process | Outputs | Customers |
 |---|---|---|---|---|
@@ -10,11 +10,17 @@ Use SIPOC to establish a high-level view of a process before detailed process ma
 | | | 4. | | |
 | | | 5. | | |
 
-## Scoping Questions
+## SIPOC Validation
 
-- Where does the process start?
-- Where does it end?
-- Who supplies the required inputs?
-- What are the critical outputs?
-- Who receives or uses those outputs?
-- What requirements define a successful process?
+Before moving to detailed mapping, confirm:
+
+- Process boundaries are agreed.
+- Start and end points are explicit.
+- Critical suppliers and inputs are identified.
+- Outputs have measurable acceptance criteria.
+- Customers / beneficiaries are known.
+- Critical requirements are documented.
+
+## Why SIPOC Comes First
+
+SIPOC prevents teams from starting with excessive process detail before agreeing on the scope and purpose of the process.
