@@ -1,42 +1,49 @@
-# Performance Dashboard Template
+# Performance Dashboard — Management Template
 
-## Executive Snapshot
+## 1. Executive Snapshot
 
-| KPI | Target | Current | Trend | Status | Action Required |
-|---|---|---|---|---|---|
-| | | | ↑ / → / ↓ | Green / Amber / Red | |
-| | | | | | |
-| | | | | | |
+| KPI | Baseline | Target | Current | Gap | Trend | Status | Action |
+|---|---:|---:|---:|---:|---|---|---|
+| | | | | | ↑ / → / ↓ | Green / Amber / Red | |
 
-## Operational Performance
+## 2. Operational Performance
 
-| Indicator | Target | Actual | Gap | Commentary |
-|---|---|---|---|---|
-| Productivity | | | | |
-| Efficiency | | | | |
-| Quality | | | | |
-| Volume | | | | |
-| SLA / Adherence | | | | |
+| Indicator | Definition | Target | Actual | Gap | Trend | Commentary |
+|---|---|---:|---:|---:|---|---|
+| Productivity | | | | | | |
+| Efficiency | | | | | | |
+| Quality | | | | | | |
+| Volume | | | | | | |
+| SLA / Adherence | | | | | | |
 
-## Customer Performance
+## 3. Customer / Funnel Performance
 
-| Indicator | Target | Actual | Gap | Commentary |
-|---|---|---|---|---|
-| Customer Satisfaction | | | | |
-| Complaint Rate | | | | |
-| Resolution Performance | | | | |
+| Indicator | Definition | Target | Actual | Gap | Trend | Commentary |
+|---|---|---:|---:|---:|---|---|
+| Qualification | | | | | | |
+| Conversion | | | | | | |
+| Customer Satisfaction | | | | | | |
+| Complaint Rate | | | | | | |
+| Resolution Performance | | | | | | |
 
-## People Performance
+## 4. People Performance
 
-| Indicator | Target | Actual | Gap | Commentary |
-|---|---|---|---|---|
+| Indicator | Target | Actual | Trend | Interpretation / Action |
+|---|---:|---:|---|---|
 | Training Completion | | | | |
+| Onboarding | | | | |
 | Attrition | | | | |
 | Absenteeism | | | | |
-| Onboarding | | | | |
 
-## Management Actions
+## 5. Management Actions
 
-| Issue / Opportunity | Root Cause | Action | Owner | Due Date | Status |
-|---|---|---|---|---|---|
-| | | | | | |
+| Issue / Opportunity | Evidence | Root Cause | Action | Owner | Due Date | Status |
+|---|---|---|---|---|---|---|
+
+## Dashboard Rules
+
+- Every KPI must have an agreed definition.
+- Every exception should have an interpretation.
+- Every material gap should lead to an action or explicit decision.
+- Trends should be reviewed before isolated values are interpreted.
+- Confidential individual or commercial data should not be exposed in external reporting.
