@@ -1,39 +1,48 @@
-# Process Map Template
+# Process Map — Operational Analysis Template
 
 ## Process Information
 
-**Process name:**  
-**Process owner:**  
+**Process:**  
+**Owner:**  
 **Purpose:**  
+**Customer / beneficiary:**  
 **Start event:**  
 **End event:**  
+**Critical output:**  
 
-## Process Flow
+## High-Level Flow
 
-**Trigger → Activity 1 → Decision → Activity 2 → Output**
+**Trigger → Qualification → Activity → Decision → Handoff → Control → Output → Follow-up**
 
-Expand the flow below as required:
-
-1. Trigger / request
-2. Activity
-3. Decision point
-4. Activity / handoff
-5. Validation / control
-6. Output
-7. Follow-up
+Adapt the sequence to the process being studied.
 
 ## Process Analysis
 
-| Step | Activity | Owner | Input | Output | KPI | Risk / Issue |
-|---|---|---|---|---|---|---|
-| 1 | | | | | | |
-| 2 | | | | | | |
-| 3 | | | | | | |
+| Step | Activity | Owner | Input | Output | Handoff | KPI | Risk / Failure Mode |
+|---|---|---|---|---|---|---|---|
+| 1 | | | | | | | |
+| 2 | | | | | | | |
+| 3 | | | | | | | |
+| 4 | | | | | | | |
 
-## Improvement Questions
+## Diagnostic Questions
 
-- Where are delays occurring?
-- Where are unnecessary handoffs occurring?
-- Which steps create rework?
-- Which controls are missing?
-- Which activities can be standardized or simplified?
+### Flow
+- Where does work wait?
+- Where are unnecessary handoffs?
+- Where is rework generated?
+
+### Control
+- Where is validation required?
+- Which controls are preventive vs. detective?
+- What evidence is produced?
+
+### Performance
+- Which KPI measures the step?
+- Is the KPI an output, outcome or activity indicator?
+- What threshold triggers action?
+
+### Improvement
+- Can the step be simplified?
+- Can responsibilities be clarified?
+- Can data capture be standardized?
