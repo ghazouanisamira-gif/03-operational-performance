@@ -39,26 +39,11 @@ Action closure, project progress, risk status and improvement initiatives.
 
 ## Applied Case Study
 
-The repository includes an anonymized **operational performance transformation case** in a service organization.
+The repository includes an anonymized operational performance transformation case demonstrating how a performance-management system can be built from the ground up.
 
-The project focused on building a performance-management system from the ground up:
+The detailed operating-model implementation and documented conversion outcome are maintained separately in [Operational Structuring & Performance Transformation](https://github.com/ghazouanisamira-gif/06-operational-structuring-case-study).
 
-1. Clarify the operating model.
-2. Map the customer and operational flows.
-3. Consolidate fragmented activity data.
-4. Define KPI logic and ownership.
-5. Establish dashboards and reporting.
-6. Introduce recurring performance reviews.
-7. Analyze trends and performance gaps.
-8. Challenge and coach teams.
-9. Implement targeted improvement actions.
-10. Sustain the management cycle.
-
-## Portfolio Evidence
-
-In the anonymized case, the framework supported a three-month performance-monitoring cycle in which **gross conversion improved by 2.5 percentage points (approximately +42% relative)**.
-
-Underlying lead volumes, revenue, individual performance and detailed commercial data are intentionally excluded.
+This repository focuses on the **performance-management layer**: process mapping, KPI architecture, dashboards, reporting, trend analysis, root-cause analysis and management routines.
 
 ## Data Governance Principle
 
