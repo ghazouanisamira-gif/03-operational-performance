@@ -2,7 +2,7 @@
 
 A practical performance-management portfolio combining process design, KPI architecture, dashboards, management routines and an anonymized transformation case.
 
-**Project Period:** 2026  
+**Project Period:** 2026
 **Portfolio Documentation:** 2026
 
 ## Performance Management Model
