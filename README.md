@@ -86,3 +86,9 @@ The framework connects operational execution to management decisions rather than
 
 **Author:** Samira Ghazouani  
 PMP® | Lean Six Sigma Black Belt | QSE/QHSE Management
+
+## Related Portfolio Evidence
+
+- [Operational Structuring & Performance Transformation](https://github.com/ghazouanisamira-gif/06-operational-structuring-case-study) — applied operating-model and performance-management case.
+- [Quality & Governance Framework](https://github.com/ghazouanisamira-gif/02-quality-governance-framework) — quality, KPI governance and management-control framework.
+- [Lean Six Sigma Transformation](https://github.com/ghazouanisamira-gif/04-lean-six-sigma-transformation) — data-driven process improvement and control.
